@@ -1,0 +1,15 @@
+#container{    
+    background-color: white;
+}
+
+#brand{
+    color: blueviolet;
+    text-align: center;
+}
+
+#searchBox{
+    background-color: greenyellow;
+    padding: 20px;
+    margin-right: 1500px;
+}
+
