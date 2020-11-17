@@ -63,21 +63,24 @@ a {
 #leftsidebar{
     position: absolute;
     top: 54%;
-    left: 400px;
+    left: 250px;
     border-radius: 15px;
     border: solid lightgreen;
+    width: 600px;
 }
 
 h3 {
     font-size: 30px;
+    margin-left: 60px;
 }
 
 #rightsidebar{
     position: absolute;
     top: 54%;
-    left: 1200px;
+    left: 900px;
     border-radius: 15px;
     border: solid lightgreen;
+    width: 710px;
 }
 
 footer{
@@ -110,9 +113,11 @@ footer{
 
 #rightsidebar li{
     font-size: 20px;
+    margin-left: 60px;
 }
 
 #leftsidebar li{
     font-size: 23px;
+    margin-left: 60px;
 }
 
