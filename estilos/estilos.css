@@ -61,15 +61,18 @@ a {
 
 #leftsidebar{
     position: absolute;
-    top: 50%;
+    top: 52%;
     left: 400px;
-    
+    border-radius: 15px;
+    border: solid lightgreen;
 }
 
 #rightsidebar{
     position: absolute;
-    top: 50%;
+    top: 52%;
     left: 1200px;
+    border-radius: 15px;
+    border: solid lightgreen;
 }
 
 footer{
