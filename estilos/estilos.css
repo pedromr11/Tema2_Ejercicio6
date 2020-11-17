@@ -68,6 +68,10 @@ a {
     border: solid lightgreen;
 }
 
+h3 {
+    font-size: 30px;
+}
+
 #rightsidebar{
     position: absolute;
     top: 54%;
@@ -78,7 +82,7 @@ a {
 
 footer{
     position: absolute;
-    top: 96%;
+    top: 98%;
     background: linear-gradient(to bottom, white, yellow);
     width: 70%;
     left: 250px;
@@ -103,3 +107,12 @@ footer{
 #leftsidebar li::before{
     content: url(../imagenes/arrow.png);
 }
+
+#rightsidebar li{
+    font-size: 20px;
+}
+
+#leftsidebar li{
+    font-size: 23px;
+}
+
