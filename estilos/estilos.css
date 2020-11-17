@@ -121,3 +121,30 @@ footer{
     margin-left: 60px;
 }
 
+#rightsidebar ul li a{
+    transition: font-size 1s  ease;
+}
+#rightsidebar ul li a:hover{
+    font-size: 25px;
+    color:red;
+    font: bold;
+}
+
+#leftsidebar ul li a{
+    transition: font-size 1s  ease;
+}
+#leftsidebar ul li a:hover{
+    font-size: 25px;
+    color:red;
+    font: bold;
+}
+
+#menu ul li a{
+    transition: font-size 1s  ease;
+}
+#menu ul li a:hover{
+    font-size: 25px;
+    color:red;
+    font: bold;
+}
+
